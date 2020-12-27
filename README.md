@@ -1,5 +1,5 @@
 # SMS Gratis
-![image](https://github.com/Fuziro/fsms/Cyber. 
+![image](https://github.com/Fuziro/Cyber 
 SMS Gratis menggunakan api web sms.payuterus.biz dengan menggunakan bahasa pemrograman python
 
 ## Cara Install
